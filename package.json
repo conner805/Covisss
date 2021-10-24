@@ -1,0 +1,19 @@
+{
+  "name": "covis_bot",
+  "version": "1.0.0",
+  "description": "Makes covis announcements what did you think?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "covidapi": "^0.5.0",
+    "discord.js": "^12.5.3",
+    "fs": "0.0.1-security",
+    "node-fetch": "^2.6.1",
+    "node.js": "0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
